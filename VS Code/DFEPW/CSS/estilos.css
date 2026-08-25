@@ -1,0 +1,11 @@
+#elemento1{
+    background-color: #bbf5ab;
+    <!--#ddd procura uma cor específica--!>
+    boxsizing: border-box;
+    padding: 10px 20px;
+}
+#elemento2{
+    background-color:#f5a7d0;
+    boxsizing: border-box;
+    padding: 10px 20px;
+}
